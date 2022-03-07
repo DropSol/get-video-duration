@@ -3520,10 +3520,9 @@ nice-try@^1.0.4:
   resolved "https://registry.yarnpkg.com/nice-try/-/nice-try-1.0.5.tgz#a3378a7696ce7d223e88fc9b764bd7ef1089e366"
   integrity sha512-1nh45deeb5olNY7eX82BkPO7SSxR5SSYJiPTrTdFUVYwAl8CKMA5N9PjTYkHiRjisVcxcQ1HXdLhx2qxxJzLNQ==
 
-node-ffprobe-installer@^1.2.3:
+"node-ffprobe-installer@git://github.com/DropSol/node-ffprobe-installer.git":
   version "1.2.3"
-  resolved "https://registry.yarnpkg.com/node-ffprobe-installer/-/node-ffprobe-installer-1.2.3.tgz#b8f5167a439545edf80b85153d130361dfbc803f"
-  integrity sha512-g4KN1Z1wX6vL5yEPXcMzkg2huj42pqynWU7wyHAhP5axe+djYReUaa2aFtDkybqqXV729F+8OUGJbKwChkLefw==
+  resolved "git://github.com/DropSol/node-ffprobe-installer.git#02dc9c7a25e77d4411716be3be982515d5cf0686"
   optionalDependencies:
     "@ffprobe-installer/darwin-x64" "4.1.0"
     "@ffprobe-installer/linux-arm" "4.3.2"
