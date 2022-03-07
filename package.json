@@ -10,7 +10,7 @@
   "dependencies": {
     "execa": "^5.0.0",
     "is-stream": "^2.0.0",
-    "node-ffprobe-installer": "^1.2.3"
+    "node-ffprobe-installer": "git://github.com/DropSol/node-ffprobe-installer.git"
   },
   "devDependencies": {
     "@types/ffprobe-static": "^2.0.0",
